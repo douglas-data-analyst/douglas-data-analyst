@@ -15,13 +15,13 @@ Profissional com experiência em desenvolvimento de software e análise de dados
 
 ### Projetos em Destaque
 
-- **[Análise Exploratória de E-commerce](https://github.com/douglas-data-analyst/ecommerce-analysis)**  
+- **[Análise Exploratória de E-commerce](https://github.com/douglas-data-analyst/sales-data-analysis)**  
   Extração de insights de vendas usando Pandas e visualização com Seaborn  
-
-- **[Pipeline ETL + Dashboard](https://github.com/douglas-data-analyst/etl-dashboard)**  
+  
+- **[Pipeline ETL + Dashboard](https://github.com/douglas-data-analyst/etl-power-bi-dashboard)**  
   Automação de fluxo de dados e visualização em Power BI com Python  
 
-- **[Previsão de Vendas](https://github.com/douglas-data-analyst/sales-prediction)**  
+- **[Previsão de Vendas](https://github.com/douglas-data-analyst/predictive-analysis)**  
   Modelo preditivo com XGBoost para otimização de estoque  
 
 ### Contato
