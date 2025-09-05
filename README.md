@@ -27,6 +27,9 @@ Profissional com experiência em desenvolvimento de software e análise de dados
 
 ### Projetos em Destaque
 
+- **[dio-lab-open-source](https://github.com/douglas-data-analyst/dio-lab-open-source.git)**  
+  Desafio: Contribuindo em um Projeto Open Source no GitHub, pelo bootcamp Introdução ao Back-end com .NET e IA com a Avanade
+
 - **[Análise Exploratória de E-commerce](https://github.com/douglas-data-analyst/sales-data-analysis)**  
   Extração de insights de vendas usando Pandas e visualização com Seaborn  
   
